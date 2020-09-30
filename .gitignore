@@ -1,0 +1,25 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# Backup file
+*.bak
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.tar.gz
+*.rar
+
+## Eclipse/IntelliJ project files##
+
+.idea/
+.settings/
+!target/allure-results
+.project
+target/
+/ProjetoAutomacaoConnecta.iml
